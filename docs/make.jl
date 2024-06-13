@@ -9,7 +9,8 @@ makedocs(modules = [CausalInference],
                                        "examples/ges_basic_examples.md",
                                        "examples/pc_cmi_examples.md",
                                        "examples/pc_real_example.md",
-                                       "examples/backdoor_example.md"],
+                                       "examples/backdoor_example.md",
+                                       "examples/dag_example.md"],
                      "Library" => "library.md",
                      "Developer comments" => "comments.md"])
 
